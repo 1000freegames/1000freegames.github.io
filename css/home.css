@@ -95,7 +95,7 @@ svg {
     height: 40px;
 }
 body {
-    background: #dadada url('https://luyengame.net/img/bg.png') repeat;
+    background: #dadada url('/img/bg.webp') repeat;
     /*background-color: #f3f7f7;*/
     font-size: 1.2rem;
     line-height: 1.6;
